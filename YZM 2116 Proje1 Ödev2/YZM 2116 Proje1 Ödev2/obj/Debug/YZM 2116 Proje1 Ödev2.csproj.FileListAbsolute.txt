@@ -1,0 +1,20 @@
+C:\Users\asus\source\repos\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\bin\Debug\YZM 2116 Proje1 Ödev2.exe.config
+C:\Users\asus\source\repos\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\bin\Debug\YZM 2116 Proje1 Ödev2.exe
+C:\Users\asus\source\repos\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\bin\Debug\YZM 2116 Proje1 Ödev2.pdb
+C:\Users\asus\source\repos\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM 2116 Proje1 Ödev2.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM_2116_Proje1_Ödev2.Form1.resources
+C:\Users\asus\source\repos\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM_2116_Proje1_Ödev2.Properties.Resources.resources
+C:\Users\asus\source\repos\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM 2116 Proje1 Ödev2.csproj.GenerateResource.Cache
+C:\Users\asus\source\repos\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM 2116 Proje1 Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM 2116 Proje1 Ödev2.exe
+C:\Users\asus\source\repos\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM 2116 Proje1 Ödev2.pdb
+C:\Users\asus\Desktop\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\bin\Debug\YZM 2116 Proje1 Ödev2.exe.config
+C:\Users\asus\Desktop\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\bin\Debug\YZM 2116 Proje1 Ödev2.exe
+C:\Users\asus\Desktop\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\bin\Debug\YZM 2116 Proje1 Ödev2.pdb
+C:\Users\asus\Desktop\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM 2116 Proje1 Ödev2.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM_2116_Proje1_Ödev2.Form1.resources
+C:\Users\asus\Desktop\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM_2116_Proje1_Ödev2.Properties.Resources.resources
+C:\Users\asus\Desktop\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM 2116 Proje1 Ödev2.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM 2116 Proje1 Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM 2116 Proje1 Ödev2.exe
+C:\Users\asus\Desktop\YZM 2116 Proje1 Ödev2\YZM 2116 Proje1 Ödev2\obj\Debug\YZM 2116 Proje1 Ödev2.pdb
